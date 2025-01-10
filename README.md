@@ -46,7 +46,7 @@ Feel free to fork this repository and contribute to the development of this proj
 ## Contact:
 For any inquiries, please feel free to reach out to me:
 - [GitHub](https://github.com/mohamedayoub97)
-- [Email](mailto:mohamedayoub97@gmail.com)
+- [Email](mailto:moessalami@gmail.com)
 
 Thank you for visiting PropertyHub! 🚀
 
