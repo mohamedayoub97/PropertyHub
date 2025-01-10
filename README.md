@@ -51,6 +51,3 @@ For any inquiries, please feel free to reach out to me:
 Thank you for visiting PropertyHub! 🚀
 
 --- 
-
-**Made with** ❤️ **and** 🌟
-```
