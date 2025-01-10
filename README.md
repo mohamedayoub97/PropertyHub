@@ -1,6 +1,3 @@
-Here's a detailed README.md file for your Real-Estate Application:
-
-```markdown
 # Real-Estate Application 🏡
 
 ## Icon: 
